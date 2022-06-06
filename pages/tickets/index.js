@@ -29,9 +29,9 @@ const Tickets = () => {
                         <h3>Tickets</h3>
                         <ul className="text">
                             <li>Tickets zijn enkel voor personen die 16 jaar of ouder zijn;</li>
-                            <li>Dagtickets kosten &euro;10,00 en zijn geldig op de gekozen dag;</li>
+                            <li>Dagtickets kosten &euro;11,00 en zijn geldig op de gekozen dag;</li>
                             <li>Combitickets kosten &euro;18,00 en zijn het hele weekend geldig;</li>
-                            <li>Groep combitickets kosten &euro;90,00 en zijn het hele weekend geldig voor 6 personen;</li>
+                            <li>Groep combitickets kosten &euro;97,00 en zijn het hele weekend geldig voor 6 personen;</li>
                             <li>Tickets worden niet terugbetaald;</li>
                             <li>Tickets kunnen niet worden doorverkocht;</li>
                             <li>Tickets zijn uitsluitend online te verkrijgen, niet aan de kassa.</li>
