@@ -106,9 +106,7 @@ const Query = ({ lineUpData }) => {
                         <h3>{detailsTitle}</h3>
                     </div>
                     <div className="dialog__description">
-                        <p className="text">
-                            {detailsDescription}
-                        </p>
+                        <p className="text" dangerouslySetInnerHTML={{ __html: detailsDescription }} />
                     </div>
                     <div className="dialog__bottom">
                         <div className="dialog__bottom--date">

@@ -13,6 +13,20 @@
         "spotify": "",
         "soundcloud": "https://soundcloud.com/nine2fivedj"
       }
+    },
+    {
+      "name": "Skyve ft. Flo Windey",
+      "release": "2022, 06, 05",
+      "date": "friday",
+      "time": "23:30 - 00:30",
+      "description": "Flo Windey is een vrouw van vele talenten; social media queen, full-time taboe-doorbreekster, hyperkineet, StuBru presentatrice en vanaf heden ook San Luce artiest!<br><br>Iedereen kent Flo als een soort onuitputtelijke bron van energie en enthousiasme, de ideale match voor een loco feestje als San Luce. Samen met haar Stubru-maatje Skyve brengt ze de sfeer erin en het dak eraf! Dat wordt genieten!",
+      "image": "sanluce-flo.jpeg",
+      "socials": {
+        "instagram": "https://www.instagram.com/flowindey/",
+        "facebook": "https://www.facebook.com/FloWindey",
+        "spotify": "",
+        "soundcloud": ""
+      }
     }
   ]
 }
