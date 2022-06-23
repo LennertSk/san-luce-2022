@@ -169,6 +169,9 @@ export const getStaticProps = async (context) => {
         return item['date'] === queryDate;
     });
 
+    // Sort by time
+    data.sort((a, b) => (b.time.substr(0,5) > a.time.substr(0,5)) ? 1 : ((a.time.substr(0,5) > b.time.substr(0,5)) ? -1 : 0));
+
     return {
         props: { lineUpData: data },
     };
